@@ -30,6 +30,5 @@ Vidly is a backend application used to rent movies to customers. The application
 # Technologies 🚀
 Vidly was built using a JavaScript framework called Node.js plus Express (for building our RESTful service) and MongoDB (for storing data). I picked these tools as they are easy to use and learn, scalable, and fast at processing data and requests made by clients
 
-* [![Next][Next.js]]
-* [![React][React.js]]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
